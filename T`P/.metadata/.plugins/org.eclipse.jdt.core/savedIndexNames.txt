@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\antonyo e danilo\T`P\.metadata\.plugins\org.eclipse.jdt.core
+801381677.index
